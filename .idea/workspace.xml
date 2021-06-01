@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04ed9400-3a46-45d8-806e-9d7975acea96" name="Default Changelist" comment="# 修改settings.py，补充注释" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oZ9N99NRL2wgDU0c1IDaxbaN6k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\django_learning\templates\blog" />
+      <recent name="F:\django_learning\blog\static\blog\css\highlights" />
+      <recent name="F:\django_learning\blog\static\blog\css" />
+      <recent name="F:\django_learning\blog\static\blog\js" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04ed9400-3a46-45d8-806e-9d7975acea96" name="Default Changelist" comment="" />
+      <created>1613483202519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613483202519</updated>
+    </task>
+    <task id="LOCAL-00001" summary="# 修改settings.py，补充注释">
+      <created>1622539785648</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622539785648</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="# 修改settings.py，补充注释" />
+    <option name="LAST_COMMIT_MESSAGE" value="# 修改settings.py，补充注释" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="177" key="#Notifications" timestamp="1622555830331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="177" key="#Notifications/0.0.1920.1040/-1600.180.1600.900@0.0.1920.1040" timestamp="1622555830331" />
+    <state x="598" y="111" key="CommitChangelistDialog2" timestamp="1622556614608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="598" y="111" key="CommitChangelistDialog2/0.0.1920.1040/-1600.180.1600.900@0.0.1920.1040" timestamp="1622556614608" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1622555676612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1600.180.1600.900@0.0.1920.1040" timestamp="1622555676612" />
+    <state x="808" y="442" key="Github.Dialog.Accounts.Choose" timestamp="1622540050409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="442" key="Github.Dialog.Accounts.Choose/0.0.1920.1040/-1600.180.1600.900@0.0.1920.1040" timestamp="1622540050409" />
+    <state x="811" y="409" width="297" height="277" key="Github.ShareDialog" timestamp="1622540001095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="811" y="409" width="297" height="277" key="Github.ShareDialog/0.0.1920.1040/-1600.180.1600.900@0.0.1920.1040" timestamp="1622540001095" />
+    <state x="828" y="241" key="RollbackChangesDialog" timestamp="1622556689967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="241" key="RollbackChangesDialog/0.0.1920.1040/-1600.180.1600.900@0.0.1920.1040" timestamp="1622556689967" />
+    <state x="361" y="74" key="SettingsEditor" timestamp="1622556802631">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="361" y="74" key="SettingsEditor/0.0.1920.1040/-1600.180.1600.900@0.0.1920.1040" timestamp="1622556802631" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1622556715282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1600.180.1600.900@0.0.1920.1040" timestamp="1622556715282" />
+    <state x="648" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1620835115471">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="648" y="350" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1600.180.1600.900@0.0.1920.1040" timestamp="1620835115471" />
+    <state x="636" y="116" width="647" height="807" key="find.popup" timestamp="1615010982540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="116" width="647" height="807" key="find.popup/0.0.1920.1040/-1600.180.1600.900@0.0.1920.1040" timestamp="1615010982540" />
+    <state x="769" y="413" key="git4idea.ui.GitResetDialog" timestamp="1622556108506">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="413" key="git4idea.ui.GitResetDialog/0.0.1920.1040/-1600.180.1600.900@0.0.1920.1040" timestamp="1622556108506" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1615010662357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1600.180.1600.900@0.0.1920.1040" timestamp="1615010662357" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/comments/templatetags/comments_extras.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
